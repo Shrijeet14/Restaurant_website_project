@@ -1,0 +1,12 @@
+.welcomehead{
+    /* background: linear-gradient(white , red); */
+    color: black;
+    font-size: 1.5rem;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#welcome p{
+    padding: 1px;
+    font: size 10px ;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}

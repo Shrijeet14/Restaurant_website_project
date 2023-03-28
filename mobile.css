@@ -1,0 +1,50 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+#serviceinsidebox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.welcomehead{
+    /* background: linear-gradient(white , red); */
+    color: black;
+    font-size: 2rem;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#welcome p{
+    padding: 1px;
+    font-size:15px ;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+#welcome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 28px 50px;
+    height: 220px;
+}
+#navdiv2 ul li {
+    padding: 5px 0px;
+    list-style: none;
+    text-decoration: none;
+}
+#cart{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items:start;
+    position: sticky;
+    left: 100%;
+    bottom: 0%;
+    width: 150px;
+    height: 320px;
+    border: 2px solid blueviolet;
+}
